@@ -4,6 +4,9 @@ My personal multi-purpose hackpad including an oled screen, 6 buttons for differ
 ## Assembled JayPad V1
 ![JayPad V1](/JayPad_V1_Assembled.jpg)
 
+## Schematic
+![JayPad Schematic](/Schematic.png)
+
 ## PCB
 ![JayPad PCB](/PCB.png)
 
