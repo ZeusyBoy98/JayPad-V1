@@ -1583,16 +1583,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 154.94) (xy 33.02 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "233f3a39-027d-4b31-84f7-97df38fa54ae")
-	)
-	(wire
-		(pts
 			(xy 36.83 87.63) (xy 36.83 127)
 		)
 		(stroke
@@ -1643,6 +1633,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 139.7) (xy 100.33 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "521861b9-82f2-411e-a2c1-9d73821ca743")
+	)
+	(wire
+		(pts
 			(xy 35.56 64.77) (xy 36.83 64.77)
 		)
 		(stroke
@@ -1690,16 +1690,6 @@
 			(type default)
 		)
 		(uuid "6cf90c2c-d571-4755-9aff-a4b177955e44")
-	)
-	(wire
-		(pts
-			(xy 31.75 76.2) (xy 31.75 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73fb61a3-9250-40ad-9d72-8afaff1a273e")
 	)
 	(wire
 		(pts
@@ -1800,6 +1790,16 @@
 			(type default)
 		)
 		(uuid "96a8ad60-d213-4fc5-b810-97b93e7baa51")
+	)
+	(wire
+		(pts
+			(xy 31.75 76.2) (xy 31.75 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96ee4024-29b9-4c27-9797-f72ef0216318")
 	)
 	(wire
 		(pts
@@ -1943,16 +1943,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 154.94) (xy 33.02 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd9a3a7b-c625-4e01-97bb-fcba3ad9dc5e")
-	)
-	(wire
-		(pts
 			(xy 31.75 76.2) (xy 36.83 76.2)
 		)
 		(stroke
@@ -1980,16 +1970,6 @@
 			(type default)
 		)
 		(uuid "df81e1db-1a72-4335-8bec-f3ff14390052")
-	)
-	(wire
-		(pts
-			(xy 33.02 139.7) (xy 100.33 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0e54ad1-79e5-40f2-829b-3a3ac5642b2c")
 	)
 	(wire
 		(pts
@@ -2710,7 +2690,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SSD1306:128x64OLED"
+		(property "Footprint" "KiCad-SSD1306-0.91-OLED-4pin-128x32:SSD1306-0.91-OLED-4pin-128x32"
 			(at 111.76 55.88 0)
 			(effects
 				(font
