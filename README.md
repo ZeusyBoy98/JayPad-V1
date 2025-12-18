@@ -11,7 +11,6 @@ My personal multi-purpose hackpad including an oled screen, 6 buttons for differ
 ![JayPad PCB](/Images/PCB.png)
 
 ## Case
-![JayPad Case Parts](/Images/JayPad_V1_Case_Parts.png)
 ![JayPad Case](/Images/JayPad_V1_Case.jpg)
 
 ## BOM
